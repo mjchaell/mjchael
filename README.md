@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I'm a college student from Universitas Kristen Satya Wacana. I love being a back-end developer, but I can do some front-end programming too. Now I'm currently a student at Satya Wacana Christian University
+I'm a college student from Universitas Kristen Satya Wacana. I love being a back-end developer, but I can do some front-end programming too.
 
 *   🌍  I'm Indonesian
 *   🤝  I'm open to collaborating on any Software Development
